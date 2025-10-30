@@ -59,6 +59,8 @@ The response will be a binary ZIP file that users can download and install immed
 1. Download and extract ZIP file
 2. Navigate to `chrome://extensions/`
 3. Enable "Developer mode" (toggle in top right)
-4. Click "Load unpacked" and select extracted folder
-5. Extension appears in toolbar - click to start chatting
+   <img width="1845" height="1013" alt="image" src="https://github.com/user-attachments/assets/42dfe624-3d74-4871-9d73-0780fe8fcf27" />
+5. Click "Load unpacked" and select extracted folder
+   <img width="1845" height="1013" alt="image" src="https://github.com/user-attachments/assets/9e5e8a16-2408-4cdb-8ea5-5b91359eeb24" />
+7. Extension appears in toolbar - click to start chatting
 
