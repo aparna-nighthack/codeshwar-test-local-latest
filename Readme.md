@@ -16,7 +16,7 @@ Generates a downloadable Chrome extension ZIP file pre-configured with the speci
 - The extension will be pre-configured with your agent
 - You'll get a downloadable ZIP file ready for installation
 
-<img width="590" height="935" alt="image" src="https://github.com/user-attachments/assets/590b5d1d-f5db-4848-8613-01188f7461f0" />
+<img width="676" height="937" alt="image" src="https://github.com/user-attachments/assets/e4654cc9-8c64-4999-9f35-61962911cfe9" />
 
 
 -------------------------------------------------------------------
@@ -60,7 +60,9 @@ The response will be a binary ZIP file that users can download and install immed
 2. Navigate to `chrome://extensions/`
 3. Enable "Developer mode" (toggle in top right)
    <img width="1845" height="1013" alt="image" src="https://github.com/user-attachments/assets/42dfe624-3d74-4871-9d73-0780fe8fcf27" />
-5. Click "Load unpacked" and select extracted folder
-   <img width="1845" height="1013" alt="image" src="https://github.com/user-attachments/assets/9e5e8a16-2408-4cdb-8ea5-5b91359eeb24" />
-7. Extension appears in toolbar - click to start chatting
+4. Click "Load unpacked" and select extracted folder
+   <img width="1845" height="1013" alt="image" src="https://github.com/user-attachments/assets/da93eaae-e85b-48a1-bdaa-3eedd88d68c2" />
+5. Extension appears in toolbar - click to start chatting
+   <img width="1055" height="1019" alt="image" src="https://github.com/user-attachments/assets/5e902e55-28ae-48aa-8fef-b0edde737cd4" />
+
 
