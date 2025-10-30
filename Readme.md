@@ -6,8 +6,7 @@ It creates custom browser extensions that integrate their AI agents directly int
 
 ## API Endpoint
 
-### Generate Chrome Extension
-**POST** `/chrome-extension/generate-extension`
+### Step 1: Generate Chrome Extension
 
 Generates a downloadable Chrome extension ZIP file pre-configured with the specified agent details.
 
@@ -16,6 +15,8 @@ Generates a downloadable Chrome extension ZIP file pre-configured with the speci
 - Select an agent ID to associate with the extension
 - The extension will be pre-configured with your agent
 - You'll get a downloadable ZIP file ready for installation
+
+**POST** `/chrome-extension/generate-extension`
 
 ### Request
 
