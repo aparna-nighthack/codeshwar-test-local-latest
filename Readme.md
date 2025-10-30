@@ -16,6 +16,9 @@ Generates a downloadable Chrome extension ZIP file pre-configured with the speci
 - The extension will be pre-configured with your agent
 - You'll get a downloadable ZIP file ready for installation
 
+<img width="590" height="935" alt="image" src="https://github.com/user-attachments/assets/590b5d1d-f5db-4848-8613-01188f7461f0" />
+
+
 -------------------------------------------------------------------
 
 **POST** `/chrome-extension/generate-extension`
@@ -52,8 +55,6 @@ curl -X POST "https://your-domain.com/chrome-extension/generate-extension" \
 The response will be a binary ZIP file that users can download and install immediately.
 
 ### Step 2: Setup Chrome Extension
-
-#### Installation steps:
 
 1. Download and extract ZIP file
 2. Navigate to `chrome://extensions/`
