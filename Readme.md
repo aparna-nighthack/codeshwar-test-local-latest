@@ -16,9 +16,11 @@ Generates a downloadable Chrome extension ZIP file pre-configured with the speci
 - The extension will be pre-configured with your agent
 - You'll get a downloadable ZIP file ready for installation
 
+-------------------------------------------------------------------
+
 **POST** `/chrome-extension/generate-extension`
 
-### Request
+### Request:
 
 #### Headers
 ```
@@ -42,7 +44,7 @@ curl -X POST "https://your-domain.com/chrome-extension/generate-extension" \
   --output test_output.zip
 ```
 
-### Response
+### Response:
 
 #### Success Response
 - **Content-Type**: `application/zip`
