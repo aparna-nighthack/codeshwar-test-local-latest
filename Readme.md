@@ -10,7 +10,7 @@ It creates custom browser extensions that integrate their AI agents directly int
 
 Generates a downloadable Chrome extension ZIP file pre-configured with the specified agent details.
 
-#### Extension Creation Details
+#### Extension Creation Details:
 - Choose a unique name for your Chrome extension
 - Select an agent ID to associate with the extension
 - The extension will be pre-configured with your agent
